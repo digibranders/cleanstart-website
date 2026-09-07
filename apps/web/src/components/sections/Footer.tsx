@@ -22,7 +22,6 @@ const COL_PRODUCT: FooterLink[] = [
   { label: "Clean Images", href: "/cleanstart-images" },
   { label: "Clean Libraries", href: "/clean-libraries" },
   { label: "CleanSight", href: "/cleansight" },
-  { label: "Impact Estimator", href: "/impact-estimator" },
   { label: "Pricing", href: "/pricing" },
   { label: "Book a Demo", href: "/book-a-demo" },
 ];
